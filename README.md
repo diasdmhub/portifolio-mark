@@ -19,8 +19,8 @@ Vibrante em soluções de rede**
 
 <table>
   <tr>
-    <td>:arrow_heading_up: <a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a">LinkedIn</a></td>
-    <td>:arrow_heading_up: <a href="https://github.com/diasdmhub">GitHub</a></td>
+    <td>⤴️ <a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a">LinkedIn</a></td>
+    <td>⤴️ <a href="https://github.com/diasdmhub">GitHub</a></td>
   </tr>
 </table>
 <BR>
