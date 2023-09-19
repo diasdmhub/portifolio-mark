@@ -1,5 +1,9 @@
 # DANIEL MAIA
-**Assessor em infraestrutura, especialista em monitoração**
+**Entusiasta em monitoração e automação \
+Animado com a liberdade do código \
+Empolgado com segurança em circuitos \
+Vibrante em soluções de rede**
+
 | ↗️ [LinkedIn](https://www.linkedin.com/in/daniel-maia-6aaaa622a) | ↗️ [GitHub](https://github.com/diasdmhub) |
 | --- | --- |
 <BR>
