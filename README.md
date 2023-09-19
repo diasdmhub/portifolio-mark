@@ -1,5 +1,5 @@
 # DANIEL MAIA
-**Assessor em infraestrutura, especialista em monitoração** \
+**Assessor em infraestrutura, especialista em monitoração**
 | ↗️ [LinkedIn](https://www.linkedin.com/in/daniel-maia-6aaaa622a) | ↗️ [GitHub](https://github.com/diasdmhub) |
 | --- | --- |
 <BR>
