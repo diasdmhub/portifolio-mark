@@ -53,7 +53,7 @@ Vibrante em soluções de rede**_
 <BR>
 
 ## Projetos públicos
-💡 [Zabbix SNMP Template](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template/)
+💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template/)
 > **Zabbix template to monitor SNMP data from your Intelbras/Dahua NVR**
 
 💡 [Scripts](https://diasdmhub.github.io/scripts/)
