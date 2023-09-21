@@ -12,15 +12,16 @@
 -->
 
 # DANIEL MAIA
-**Entusiasta em monitoração e automação \
+_**Entusiasta em monitoração e automação \
 Animado com a liberdade do código \
 Empolgado com segurança em circuitos \
-Vibrante em soluções de rede**
+Vibrante em soluções de rede**_
+<BR>
 
 <table>
   <tr>
-    <td>⤴️ <a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a">LinkedIn</a></td>
-    <td>⤴️ <a href="https://github.com/diasdmhub">GitHub</a></td>
+    <td><b>⤴️ <a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a">LinkedIn</a></b></td>
+    <td><b>⤴️ <a href="https://github.com/diasdmhub">GitHub</a></b></td>
   </tr>
 </table>
 <BR>
@@ -28,14 +29,14 @@ Vibrante em soluções de rede**
 ## Principais habilidades:
 <table>
   <tr>
-    <td>Zabbix</td>
-    <td>Redes</td>
-    <td>Grafana</td>
-    <td>Linux</td>
-    <td>Windows</td>
-    <td>Ansible</td>
-    <td>CFTV</td>
-    <td>SRE</td>
+    <td><b>Zabbix</b></td>
+    <td><b>Redes</b></td>
+    <td><b>Grafana</b></td>
+    <td><b>Linux</b></td>
+    <td><b>Windows</b></td>
+    <td><b>Ansible</b></td>
+    <td><b>CFTV</b></td>
+    <td><b>SRE</b></td>
   </tr>
 </table>
 <BR>
