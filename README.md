@@ -53,8 +53,11 @@ Vibrante em soluções de rede**_
 <BR>
 
 ## Projetos públicos
-💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template/)
+💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template)
 > **Zabbix template to monitor SNMP data from your Intelbras/Dahua NVR**
+
+💡 [Zabbix Template for Asus WRT Merlin Routers](https://github.com/diasdmhub/Asus_Merlin_Zabbix_Template)
+> **Zabbix template for Asus WRT router with Merlin firmware**
 
 💡 [Scripts](https://diasdmhub.github.io/scripts/)
 > **Simple scripts for simple tasks**
