@@ -59,6 +59,12 @@ Vibrante em soluções de rede**_
 💡 [Zabbix Template for Asus WRT Merlin Routers](https://github.com/diasdmhub/Asus_Merlin_Zabbix_Template)
 > **Zabbix template for Asus WRT router with Merlin firmware**
 
+💡 [Zabbix Template for AdGuard Home](https://github.com/diasdmhub/AdGuard_Home_Zabbix_Template)
+> **Zabbix template to monitor your AdGuard Home instance**
+
+💡 [Zabbix HTML E-mail template](https://github.com/diasdmhub/Zabbix_Html_E-mail_Template)
+> **Customizable Zabbix HTML Email Template**
+
 💡 [Scripts](https://diasdmhub.github.io/scripts/)
 > **Simple scripts for simple tasks**
 <BR>
