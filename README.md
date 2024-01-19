@@ -1,19 +1,42 @@
 # DANIEL MAIA
-_**Entusiasta em monitoração e automação \
-Animado com a liberdade do código \
-Empolgado com segurança em circuitos \
-Vibrante em soluções de rede**_
+_**No universo da monitoração e automação, \
+Livre, com notas de um código encantado, \
+Minha alma se eleva na dança da inovação.**_
+
+_**A liberdade do código, minha inspiração, \
+Em cada linha, a paixão pela automação.**_
+
+_**Nos circuitos, sinto a segurança vibrar, \
+Guardião das correntes, sinfonia a ecoar.**_
+
+_**Em teias da rede, meu espírito se desenha, \
+Um poeta tecnológico, na dança da engenharia, \
+Conectando destinos, como estrelas na linha.**_
+
 <BR>
 
-| [![linkedin](./image/in.png) LinkedIn](https://www.linkedin.com/in/daniel-maia-6aaaa622a)| [![diasdmhub](./image/gh_w.png) GitHub](https://github.com/diasdmhub) |
-| :---: | :---: |
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a"><img src="./image/in.png"> LinkedIn</a></td>
+    <td><a href="https://github.com/diasdmhub"><img src="./image/gh_w.png"> GitHub</a></td>
+  </tr>
+</table>
 
 <BR>
 
 ## Principais habilidades:
-
-| Zabbix | Redes | Grafana | Linux | Windows | Ansible | CFTV | SRE |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<table>
+  <tr>
+    <td>Zabbix</td>
+    <td>Redes</td>
+    <td>Grafana</td>
+    <td>Linux</td>
+    <td>Windows</td>
+    <td>Ansible</td>
+    <td>CFTV</td>
+    <td>SRE</td>
+  </tr>
+</table>
 
 <BR>
 
