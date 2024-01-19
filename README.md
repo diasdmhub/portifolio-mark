@@ -5,7 +5,7 @@ Empolgado com segurança em circuitos \
 Vibrante em soluções de rede**_
 <BR>
 
-| ![linkedin](./image/in.png) [LinkedIn](https://www.linkedin.com/in/daniel-maia-6aaaa622a)| ![diasdmhub](./image/gh_w.png) [GitHub](https://github.com/diasdmhub) |
+| [![linkedin](./image/in.png) LinkedIn](https://www.linkedin.com/in/daniel-maia-6aaaa622a)| [![diasdmhub](./image/gh_w.png) GitHub](https://github.com/diasdmhub) |
 | :---: | :---: |
 
 <BR>
