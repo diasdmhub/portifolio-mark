@@ -13,12 +13,10 @@ _**Em teias da rede, meu espírito se desenha, \
 Um poeta tecnológico, na dança da engenharia, \
 Conectando destinos, como estrelas na linha.**_
 
-<BR>
-
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/daniel-maia-6aaaa622a"><img src="./image/in.png"> LinkedIn</a></td>
-    <td><a href="https://github.com/diasdmhub"><img src="./image/gh_w.png"> GitHub</a></td>
+    <td><a href="https://github.com/diasdmhub"><img src="./image/gh.png"> GitHub</a></td>
   </tr>
 </table>
 
