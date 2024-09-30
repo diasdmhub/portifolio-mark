@@ -39,17 +39,23 @@ Conectando destinos, como estrelas na linha.**_
 <BR>
 
 ## Educação
+
 🏆 Ciência de dados \
-🏆 Redes de Computadores \
+🏆 Redes de Computadores
+
 <BR>
 
 ## Principais certificações
+
+🏅 SRE \
 🏅 Zabbix ZCP/ZCS \
 🏅 Linguaskill C1 \
-🏅 CCNA \
+🏅 CCNA
+
 <BR>
 
 ## Projetos públicos
+
 💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template)
 > **Zabbix template to monitor SNMP data from your Intelbras/Dahua NVR**
 
@@ -67,4 +73,5 @@ Conectando destinos, como estrelas na linha.**_
 
 💡 [Scripts](https://diasdmhub.github.io/scripts/)
 > **Simple scripts for simple tasks**
+
 <BR>
