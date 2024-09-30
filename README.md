@@ -53,11 +53,14 @@ Conectando destinos, como estrelas na linha.**_
 💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template)
 > **Zabbix template to monitor SNMP data from your Intelbras/Dahua NVR**
 
+💡 [Zabbix Template for AdGuard Home](https://github.com/diasdmhub/AdGuard_Home_Zabbix_Template)
+> **Zabbix template to monitor your AdGuard Home instance**
+
 💡 [Zabbix Template for Asus WRT Merlin Routers](https://github.com/diasdmhub/Asus_Merlin_Zabbix_Template)
 > **Zabbix template for Asus WRT router with Merlin firmware**
 
-💡 [Zabbix Template for AdGuard Home](https://github.com/diasdmhub/AdGuard_Home_Zabbix_Template)
-> **Zabbix template to monitor your AdGuard Home instance**
+💡 [Zabbix Out of the Box](https://github.com/diasdmhub/Zabbix_Out_of_The_Box)
+> **A knowledge base repository for Zabbix scenarios, issues or general tips**
 
 💡 [Zabbix HTML E-mail template](https://github.com/diasdmhub/Zabbix_Html_E-mail_Template)
 > **Customizable Zabbix HTML Email Template**
