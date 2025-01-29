@@ -1,4 +1,5 @@
 # DANIEL MAIA
+
 _**No universo da monitoração e automação, \
 Livre, com notas de um código encantado, \
 Minha alma se eleva na dança da inovação.**_
@@ -22,7 +23,11 @@ Conectando destinos, como estrelas na linha.**_
 
 <BR>
 
-## Principais habilidades:
+## 🛠️ Principais habilidades:
+
+🗨️ Empatia com a liberdade do código
+🗨️ Celebrar a documentação cheia de valor
+
 <table>
   <tr>
     <td>Zabbix</td>
@@ -38,25 +43,9 @@ Conectando destinos, como estrelas na linha.**_
 
 <BR>
 
-## Educação
+## 🌍 Projetos públicos
 
-🏆 Ciência de dados \
-🏆 Redes de Computadores
-
-<BR>
-
-## Principais certificações
-
-🏅 SRE \
-🏅 Zabbix ZCP/ZCS \
-🏅 Linguaskill C1 \
-🏅 CCNA
-
-<BR>
-
-## Projetos públicos
-
-💡 [Zabbix SNMP Template for Intelbras/Dahua](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template)
+💡 [Zabbix Template for NVR Intelbras / Dahua by SNMP](https://diasdmhub.github.io/Intelbras_NVR_Zabbix_Template)
 > **Zabbix template to monitor SNMP data from your Intelbras/Dahua NVR**
 
 💡 [Zabbix Template for AdGuard Home](https://github.com/diasdmhub/AdGuard_Home_Zabbix_Template)
@@ -68,10 +57,52 @@ Conectando destinos, como estrelas na linha.**_
 💡 [Zabbix Out of the Box](https://github.com/diasdmhub/Zabbix_Out_of_The_Box)
 > **A knowledge base repository for Zabbix scenarios, issues or general tips**
 
+💡 [Zabbix MySQL DB Backup Script and Template](https://github.com/diasdmhub/zabbix_db_backup)
+> **Zabbix DB backup script and template**
+
 💡 [Zabbix HTML E-mail template](https://github.com/diasdmhub/Zabbix_Html_E-mail_Template)
 > **Customizable Zabbix HTML Email Template**
 
 💡 [Scripts](https://diasdmhub.github.io/scripts/)
-> **Simple scripts for simple tasks**
+> **Graceful instructions for efficient objectives**
 
 <BR>
+
+## 🌐 Meu ambiente
+
+#### 🧳 Experiências e experimentações
+
+🌟 [Proxmox](https://www.proxmox.com/)
+🌟 [Docker](https://www.docker.com/)
+🌟 [Podman](https://podman.io/)
+🌟 [Dashy](https://github.com/Lissy93/dashy)
+🌟 [Zabbix](https://www.zabbix.com/)
+🌟 [Grafana](https://grafana.com/)
+🌟 [BookStack](https://www.bookstackapp.com/)
+🌟 [BitWarden](https://bitwarden.com/)
+🌟 [Joplin](https://joplinapp.org/)
+🌟 [StirlingPDF](https://www.stirlingpdf.com/)
+🌟 [IT-Tools](https://it-tools.tech/)
+🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/)
+🌟 [Immich](https://immich.app/)
+🌟 [FreshRSS](https://www.freshrss.org/)
+🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/)
+🌟 [MkDocs/Material](https://www.mkdocs.org/)
+🌟 [Intelbras CFTV](https://www.intelbras.com)
+🌟 [Hikvision CFTV](https://www.hikvision.com/)
+
+<BR>
+
+## 📜 Principais certificações
+
+🏅 SRE \
+🏅 Zabbix ZCP/ZCS \
+🏅 CCNA \
+🏅 Linguaskill
+
+<BR>
+
+## 📚 Educação
+
+🏆 Ciência de dados \
+🏆 Redes de Computadores
