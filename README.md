@@ -72,23 +72,24 @@ Conectando destinos, como estrelas na linha.**_
 
 #### 🧳 Experiências e experimentações
 
-🌟 [Proxmox](https://www.proxmox.com/)
-🌟 [Docker](https://www.docker.com/)
-🌟 [Podman](https://podman.io/)
-🌟 [Dashy](https://github.com/Lissy93/dashy)
-🌟 [Zabbix](https://www.zabbix.com/)
-🌟 [Grafana](https://grafana.com/)
-🌟 [BookStack](https://www.bookstackapp.com/)
-🌟 [BitWarden](https://bitwarden.com/)
-🌟 [Joplin](https://joplinapp.org/)
-🌟 [StirlingPDF](https://www.stirlingpdf.com/)
-🌟 [IT-Tools](https://it-tools.tech/)
-🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/)
-🌟 [Immich](https://immich.app/)
-🌟 [FreshRSS](https://www.freshrss.org/)
-🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/)
-🌟 [MkDocs/Material](https://www.mkdocs.org/)
-🌟 [Intelbras CFTV](https://www.intelbras.com)
+🌟 [Proxmox](https://www.proxmox.com/) \
+🌟 [Docker](https://www.docker.com/) \
+🌟 [Podman](https://podman.io/) \
+🌟 [Dashy](https://github.com/Lissy93/dashy) \
+🌟 [Zabbix](https://www.zabbix.com/) \
+🌟 [Grafana](https://grafana.com/) \
+🌟 [BookStack](https://www.bookstackapp.com/) \
+🌟 [BitWarden](https://bitwarden.com/) \
+🌟 [Joplin](https://joplinapp.org/) \
+🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
+🌟 [IT-Tools](https://it-tools.tech/) \
+🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
+🌟 [Immich](https://immich.app/) \
+🌟 [FreshRSS](https://www.freshrss.org/) \
+🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
+🌟 [MkDocs/Material](https://www.mkdocs.org/) \
+🌟 [GitHub](https://github.com/) \
+🌟 [Intelbras CFTV](https://www.intelbras.com) \
 🌟 [Hikvision CFTV](https://www.hikvision.com/)
 
 <BR>
