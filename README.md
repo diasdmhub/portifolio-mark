@@ -25,7 +25,7 @@ Conectando destinos, como estrelas na linha.**_
 
 ## 🛠️ Principais habilidades:
 
-🗨️ Empatia com a liberdade do código
+🗨️ Empatia com a liberdade do código \
 🗨️ Celebrar a documentação cheia de valor
 
 <table>
