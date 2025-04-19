@@ -51,6 +51,9 @@ Conectando destinos, como estrelas na linha.**_
 💡 [Zabbix Template for AdGuard Home](https://github.com/diasdmhub/AdGuard_Home_Zabbix_Template)
 > **Zabbix template to monitor your AdGuard Home instance**
 
+💡 [Zabbix Template for Citrix NetScaler ADC](https://github.com/diasdmhub/Citrix_NetScaler_ADC_Zabbix_Template)
+> **Zabbix template to monitor SNMP data from your Citrix NetScaler ADC**
+
 💡 [Zabbix Template for Asus WRT Merlin Routers](https://github.com/diasdmhub/Asus_Merlin_Zabbix_Template)
 > **Zabbix template for Asus WRT router with Merlin firmware**
 
