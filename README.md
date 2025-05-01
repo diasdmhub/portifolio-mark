@@ -82,6 +82,7 @@ Conectando destinos, como estrelas na linha.**_
 🌟 [Zabbix](https://www.zabbix.com/) \
 🌟 [Grafana](https://grafana.com/) \
 🌟 [BookStack](https://www.bookstackapp.com/) \
+🌟 [Ntfy](https://ntfy.sh/) \
 🌟 [BitWarden](https://bitwarden.com/) \
 🌟 [Joplin](https://joplinapp.org/) \
 🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
