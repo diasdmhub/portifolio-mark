@@ -1,18 +1,6 @@
 # DANIEL MAIA
 
-_**No universo da monitoração e automação, \
-Livre, com notas de um código encantado, \
-Minha alma se eleva na dança da inovação.**_
-
-_**A liberdade do código, minha inspiração, \
-Em cada linha, a paixão pela automação.**_
-
-_**Nos circuitos, sinto a segurança vibrar, \
-Guardião das correntes, sinfonia a ecoar.**_
-
-_**Em teias da rede, meu espírito se desenha, \
-Um poeta tecnológico, na dança da engenharia, \
-Conectando destinos, como estrelas na linha.**_
+_**Pela experiência e observação, há uma busca constante pela inovação e automação com a liberdade do código.**_
 
 <table>
   <tr>
@@ -71,39 +59,51 @@ Conectando destinos, como estrelas na linha.**_
 
 <BR>
 
-## 🌐 Meu ambiente
-
-#### 🧳 Experiências e experimentações
-
-🌟 [Proxmox](https://www.proxmox.com/) \
-🌟 [Docker](https://www.docker.com/) \
-🌟 [Podman](https://podman.io/) \
-🌟 [Dashy](https://github.com/Lissy93/dashy) \
-🌟 [Zabbix](https://www.zabbix.com/) \
-🌟 [Grafana](https://grafana.com/) \
-🌟 [BookStack](https://www.bookstackapp.com/) \
-🌟 [Ntfy](https://ntfy.sh/) \
-🌟 [BitWarden](https://bitwarden.com/) \
-🌟 [Joplin](https://joplinapp.org/) \
-🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
-🌟 [IT-Tools](https://it-tools.tech/) \
-🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
-🌟 [Immich](https://immich.app/) \
-🌟 [FreshRSS](https://www.freshrss.org/) \
-🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
-🌟 [MkDocs/Material](https://www.mkdocs.org/) \
-🌟 [GitHub](https://github.com/) \
-🌟 [Intelbras CFTV](https://www.intelbras.com) \
-🌟 [Hikvision CFTV](https://www.hikvision.com/)
-
-<BR>
-
 ## 📜 Principais certificações
 
 🏅 SRE \
 🏅 Zabbix ZCP/ZCS \
 🏅 CCNA \
 🏅 Linguaskill
+
+<BR>
+
+## 🌐 Meu ambiente
+
+#### 🧳 Experiências e experimentações
+
+🌟 [Zabbix](https://www.zabbix.com/) \
+🌟 [Grafana](https://grafana.com/) \
+🌟 [Proxmox](https://www.proxmox.com/) \
+🌟 [TrueNAS](https://www.truenas.com/) \
+🌟 [Docker](https://www.docker.com/) \
+🌟 [Podman](https://podman.io/) \
+🌟 [Portainer](https://www.portainer.io/) \
+🌟 [AdGuard Home](https://github.com/AdguardTeam/AdguardHome) \
+🌟 [Syncthing](https://syncthing.net/) \
+🌟 [Homarr](https://homarr.dev/) \
+🌟 [Dashy](https://github.com/Lissy93/dashy) \
+🌟 [BookStack](https://www.bookstackapp.com/) \
+🌟 [Netbox](https://netboxlabs.com/) \
+🌟 [Ntfy](https://ntfy.sh/) \
+🌟 [BitWarden](https://bitwarden.com/) \
+🌟 [Joplin](https://joplinapp.org/) \
+🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
+🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
+🌟 [Immich](https://immich.app/) \
+🌟 [FreshRSS](https://www.freshrss.org/) \
+🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
+🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
+🌟 [MkDocs/Material](https://www.mkdocs.org/) \
+🌟 [GitHub](https://github.com/) \
+🌟 [Gitea](https://about.gitea.com/) \
+🌟 [Nginx Proxy Manager](https://nginxproxymanager.com/) \
+🌟 [Home Assistent](https://www.home-assistant.io/) \
+🌟 [Intelbras CFTV](https://www.intelbras.com) \
+🌟 [Hikvision CFTV](https://www.hikvision.com/) \
+🌟 [IT-Tools](https://it-tools.tech/) \
+🌟 [OmniTools](https://omnitools.app/) \
+🌟 [Valetudo Cloud](https://valetudo.cloud/)
 
 <BR>
 
