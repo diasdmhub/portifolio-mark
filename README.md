@@ -72,38 +72,39 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 
 #### 🧳 Experiências e experimentações
 
-🌟 [Zabbix](https://www.zabbix.com/) \
-🌟 [Grafana](https://grafana.com/) \
-🌟 [Proxmox](https://www.proxmox.com/) \
-🌟 [TrueNAS](https://www.truenas.com/) \
-🌟 [Docker](https://www.docker.com/) \
-🌟 [Podman](https://podman.io/) \
-🌟 [Portainer](https://www.portainer.io/) \
-🌟 [AdGuard Home](https://github.com/AdguardTeam/AdguardHome) \
-🌟 [Syncthing](https://syncthing.net/) \
-🌟 [Homarr](https://homarr.dev/) \
-🌟 [Dashy](https://github.com/Lissy93/dashy) \
-🌟 [BookStack](https://www.bookstackapp.com/) \
-🌟 [Netbox](https://netboxlabs.com/) \
-🌟 [Ntfy](https://ntfy.sh/) \
-🌟 [BitWarden](https://bitwarden.com/) \
-🌟 [Joplin](https://joplinapp.org/) \
+🌟 [**Zabbix**](https://www.zabbix.com/) \
+🌟 [**Grafana**](https://grafana.com/) \
+🌟 [**Proxmox**](https://www.proxmox.com/) \
+🌟 [**TrueNAS**](https://www.truenas.com/) \
+🌟 [**Docker**](https://www.docker.com/) \
+🌟 [**Podman**](https://podman.io/) \
+🌟 [**Portainer**](https://www.portainer.io/) \
+🌟 [**Authentik**](https://goauthentik.io/) \
+🌟 [**AdGuard Home**](https://github.com/AdguardTeam/AdguardHome) \
+🌟 [**Syncthing**](https://syncthing.net/) \
+🌟 [**Homarr**](https://homarr.dev/) \
+🌟 [**Netbox**](https://netboxlabs.com/) \
+🌟 [**BitWarden**](https://bitwarden.com/) \
+🌟 [**Joplin**](https://joplinapp.org/) \
+🌟 [**GitHub**](https://github.com/) \
+🌟 [**Gitea**](https://about.gitea.com/) \
+🌟 [**Immich**](https://immich.app/) \
+🌟 [**Jellyfin**](https://jellyfin.org/) \
+🌟 [**Intelbras CFTV**](https://www.intelbras.com) \
+🌟 [Hikvision CFTV](https://www.hikvision.com/) \
+🌟 [Home Assistent](https://www.home-assistant.io/) \
+🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
 🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
 🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
-🌟 [Immich](https://immich.app/) \
-🌟 [FreshRSS](https://www.freshrss.org/) \
-🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
 🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
-🌟 [MkDocs/Material](https://www.mkdocs.org/) \
-🌟 [GitHub](https://github.com/) \
-🌟 [Gitea](https://about.gitea.com/) \
 🌟 [Nginx Proxy Manager](https://nginxproxymanager.com/) \
-🌟 [Home Assistent](https://www.home-assistant.io/) \
-🌟 [Intelbras CFTV](https://www.intelbras.com) \
-🌟 [Hikvision CFTV](https://www.hikvision.com/) \
 🌟 [IT-Tools](https://it-tools.tech/) \
 🌟 [OmniTools](https://omnitools.app/) \
-🌟 [Valetudo Cloud](https://valetudo.cloud/)
+🌟 [Valetudo Cloud](https://valetudo.cloud/) \
+🌟 [_Dashy_](https://github.com/Lissy93/dashy) \
+🌟 [_BookStack_](https://www.bookstackapp.com/) \
+🌟 [_Ntfy_](https://ntfy.sh/) \
+🌟 [_MkDocs/Material_](https://www.mkdocs.org/)
 
 <BR>
 
