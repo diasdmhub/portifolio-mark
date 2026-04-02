@@ -59,7 +59,7 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 
 <BR>
 
-## 📜 Principais certificações
+## 📜 Principais especializações
 
 🏅 SRE \
 🏅 Zabbix ZCP/ZCS \
@@ -90,7 +90,9 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 🌟 [**Gitea**](https://about.gitea.com/) \
 🌟 [**Immich**](https://immich.app/) \
 🌟 [**Jellyfin**](https://jellyfin.org/) \
-🌟 [**Intelbras CFTV**](https://www.intelbras.com) \
+🌟 [**GOWA (Whatsapp API)**](https://github.com/aldinokemal/go-whatsapp-web-multidevice) \
+🌟 [**Unbound**](https://www.nlnetlabs.nl/projects/unbound/about/) \
+🌟 [Intelbras CFTV](https://www.intelbras.com) \
 🌟 [Hikvision CFTV](https://www.hikvision.com/) \
 🌟 [Home Assistent](https://www.home-assistant.io/) \
 🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
@@ -110,5 +112,6 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 
 ## 📚 Educação
 
+🏆 DevOps e Arquitetura Cloud \
 🏆 Ciência de dados \
 🏆 Redes de Computadores
