@@ -16,18 +16,9 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 🗨️ Empatia com a liberdade do código \
 🗨️ Celebrar a documentação cheia de valor
 
-<table>
-  <tr>
-    <td>Zabbix</td>
-    <td>Redes</td>
-    <td>Grafana</td>
-    <td>Linux</td>
-    <td>Windows</td>
-    <td>Ansible</td>
-    <td>CFTV</td>
-    <td>SRE</td>
-  </tr>
-</table>
+<p>
+  <kbd>Zabbix</kbd> <kbd>Redes</kbd> <kbd>Grafana</kbd> <kbd>Linux</kbd> <kbd>Windows</kbd> <kbd>Ansible</kbd> <kbd>CFTV</kbd> <kbd>SRE</kbd>
+</p>
 
 <BR>
 
@@ -72,41 +63,43 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 
 #### 🧳 Experiências e experimentações
 
-🌟 [**Zabbix**](https://www.zabbix.com/) \
-🌟 [**Grafana**](https://grafana.com/) \
-🌟 [**Proxmox**](https://www.proxmox.com/) \
-🌟 [**TrueNAS**](https://www.truenas.com/) \
-🌟 [**Docker**](https://www.docker.com/) \
-🌟 [**Podman**](https://podman.io/) \
-🌟 [**Portainer**](https://www.portainer.io/) \
-🌟 [**Authentik**](https://goauthentik.io/) \
-🌟 [**AdGuard Home**](https://github.com/AdguardTeam/AdguardHome) \
-🌟 [**Syncthing**](https://syncthing.net/) \
-🌟 [**Homarr**](https://homarr.dev/) \
-🌟 [**Netbox**](https://netboxlabs.com/) \
-🌟 [**BitWarden**](https://bitwarden.com/) \
-🌟 [**Joplin**](https://joplinapp.org/) \
-🌟 [**GitHub**](https://github.com/) \
-🌟 [**Gitea**](https://about.gitea.com/) \
-🌟 [**Immich**](https://immich.app/) \
-🌟 [**Jellyfin**](https://jellyfin.org/) \
-🌟 [**GOWA (Whatsapp API)**](https://github.com/aldinokemal/go-whatsapp-web-multidevice) \
-🌟 [**Unbound**](https://www.nlnetlabs.nl/projects/unbound/about/) \
-🌟 [Intelbras CFTV](https://www.intelbras.com) \
-🌟 [Hikvision CFTV](https://www.hikvision.com/) \
-🌟 [Home Assistent](https://www.home-assistant.io/) \
-🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
-🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
-🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
-🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
-🌟 [Nginx Proxy Manager](https://nginxproxymanager.com/) \
-🌟 [IT-Tools](https://it-tools.tech/) \
-🌟 [OmniTools](https://omnitools.app/) \
-🌟 [Valetudo Cloud](https://valetudo.cloud/) \
-🌟 [_Dashy_](https://github.com/Lissy93/dashy) \
-🌟 [_BookStack_](https://www.bookstackapp.com/) \
-🌟 [_Ntfy_](https://ntfy.sh/) \
-🌟 [_MkDocs/Material_](https://www.mkdocs.org/)
+<p>
+  <a href="https://www.zabbix.com/"><kbd>Zabbix</kbd></a>
+  <a href="https://grafana.com/"><kbd>Grafana</kbd></a>
+  <a href="https://www.proxmox.com/"><kbd>Proxmox</kbd></a>
+  <a href="https://www.truenas.com/"><kbd>TrueNAS</kbd></a>
+  <a href="https://www.docker.com/"><kbd>Docker</kbd></a>
+  <a href="https://podman.io/"><kbd>Podman</kbd></a>
+  <a href="https://www.portainer.io/"><kbd>Portainer</kbd></a>
+  <a href="https://goauthentik.io/"><kbd>Authentik</kbd></a>
+  <a href="https://github.com/AdguardTeam/AdguardHome"><kbd>AdGuard Home</kbd></a>
+  <a href="https://syncthing.net/"><kbd>Syncthing</kbd></a>
+  <a href="https://homarr.dev/"><kbd>Homarr</kbd></a>
+  <a href="https://netboxlabs.com/"><kbd>Netbox</kbd></a>
+  <a href="https://bitwarden.com/"><kbd>BitWarden</kbd></a>
+  <a href="https://joplinapp.org/"><kbd>Joplin</kbd></a>
+  <a href="https://github.com/"><kbd>GitHub</kbd></a>
+  <a href="https://about.gitea.com/"><kbd>Gitea</kbd></a>
+  <a href="https://immich.app/"><kbd>Immich</kbd></a>
+  <a href="https://jellyfin.org/"><kbd>Jellyfin</kbd></a>
+  <a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice"><kbd>GOWA (Whatsapp API)</kbd></a>
+  <a href="https://www.nlnetlabs.nl/projects/unbound/about/"><kbd>Unbound</kbd></a>
+  <a href="https://www.intelbras.com"><kbd>Intelbras CFTV</kbd></a>
+  <a href="https://www.hikvision.com/"><kbd>Hikvision CFTV</kbd></a>
+  <a href="https://www.home-assistant.io/"><kbd>Home Assistent</kbd></a>
+  <a href="https://docs.paperless-ngx.com/"><kbd>Paperless-ngx</kbd></a>
+  <a href="https://www.stirlingpdf.com/"><kbd>StirlingPDF</kbd></a>
+  <a href="https://www.selenium.dev/documentation/grid/"><kbd>Selenium Grid</kbd></a>
+  <a href="https://speedtest-tracker.dev/"><kbd>SpeedTest Tracker</kbd></a>
+  <a href="https://nginxproxymanager.com/"><kbd>Nginx Proxy Manager</kbd></a>
+  <a href="https://it-tools.tech/"><kbd>IT-Tools</kbd></a>
+  <a href="https://omnitools.app/"><kbd>OmniTools</kbd></a>
+  <a href="https://valetudo.cloud/"><kbd>Valetudo Cloud</kbd></a>
+  <a href="https://github.com/Lissy93/dashy"><kbd>Dashy</kbd></a>
+  <a href="https://www.bookstackapp.com/"><kbd>BookStack</kbd></a>
+  <a href="https://ntfy.sh/"><kbd>Ntfy</kbd></a>
+  <a href="https://www.mkdocs.org/"><kbd>MkDocs/Material</kbd></a>
+</p>
 
 <BR>
 
