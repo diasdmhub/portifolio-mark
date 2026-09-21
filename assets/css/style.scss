@@ -1,0 +1,46 @@
+---
+---
+
+// Sobrescreve a paleta neon padrão do jekyll-theme-hacker por um verde
+// musgo mais discreto sobre um fundo escuro mais claro (em vez do preto
+// quase puro e do verde #b5e853 originais).
+$body-background: #212726;
+$body-foreground: #d8ddd7;
+$header: #8fae7c;
+$blockquote-color: #9aa79a;
+$blockquote-border: #3a413c;
+
+@import "{{ site.theme }}";
+
+// O tema original usa a cor #b5e853 (verde neon) direto em vários
+// seletores, sem passar pelas variáveis acima — por isso é preciso
+// sobrescrever cada um manualmente aqui embaixo.
+header {
+  border-bottom-color: rgba(143, 174, 124, .35);
+}
+
+header h1 {
+  color: #8fae7c;
+  text-shadow: none;
+}
+
+header h2 {
+  color: #93998f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-shadow: none;
+}
+
+pre {
+  color: #8fae7c;
+}
+
+th {
+  border-bottom-color: rgba(143, 174, 124, .35);
+}
+
+hr {
+  border-bottom-color: rgba(143, 174, 124, .35);
+  color: #8fae7c;
+}
