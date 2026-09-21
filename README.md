@@ -16,8 +16,19 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 🗨️ Empatia com a liberdade do código \
 🗨️ Celebrar a documentação cheia de valor
 
-| `Zabbix` | `Redes` | `Grafana` | `Linux` | `Windows` | `Ansible` | `CFTV` | `DevOps` | `SRE` |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+<table>
+  <tr>
+    <td><code>Zabbix</code></td>
+    <td><code>Redes</code></td>
+    <td><code>Grafana</code></td>
+    <td><code>Linux</code></td>
+    <td><code>Windows</code></td>
+    <td><code>Ansible</code></td>
+    <td><code>CFTV</code></td>
+    <td><code>DevOps</code></td>
+    <td><code>SRE</code></td>
+  </tr>
+</table>
 
 <BR>
 
