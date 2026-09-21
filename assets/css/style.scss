@@ -32,6 +32,13 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: none;
 }
 
+// O brilho azul de "a" é herdado por qualquer <code> aninhado dentro de
+// um link (por isso o inline code do markdown, que vira <a><code>...
+// </code></a>, brilhava, enquanto o <code> solto da tabela não).
+a {
+  text-shadow: none;
+}
+
 pre {
   color: #8fae7c;
 }
