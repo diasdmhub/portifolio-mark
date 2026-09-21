@@ -16,18 +16,7 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 🗨️ Empatia com a liberdade do código \
 🗨️ Celebrar a documentação cheia de valor
 
-<table>
-  <tr>
-    <td>Zabbix</td>
-    <td>Redes</td>
-    <td>Grafana</td>
-    <td>Linux</td>
-    <td>Windows</td>
-    <td>Ansible</td>
-    <td>CFTV</td>
-    <td>SRE</td>
-  </tr>
-</table>
+`Zabbix` `Redes` `Grafana` `Linux` `Windows` `Ansible` `CFTV` `SRE`
 
 <BR>
 
@@ -72,41 +61,41 @@ _**Pela experiência e observação, há uma busca constante pela inovação e a
 
 #### 🧳 Experiências e experimentações
 
-🌟 [**Zabbix**](https://www.zabbix.com/) \
-🌟 [**Grafana**](https://grafana.com/) \
-🌟 [**Proxmox**](https://www.proxmox.com/) \
-🌟 [**TrueNAS**](https://www.truenas.com/) \
-🌟 [**Docker**](https://www.docker.com/) \
-🌟 [**Podman**](https://podman.io/) \
-🌟 [**Portainer**](https://www.portainer.io/) \
-🌟 [**Authentik**](https://goauthentik.io/) \
-🌟 [**AdGuard Home**](https://github.com/AdguardTeam/AdguardHome) \
-🌟 [**Syncthing**](https://syncthing.net/) \
-🌟 [**Homarr**](https://homarr.dev/) \
-🌟 [**Netbox**](https://netboxlabs.com/) \
-🌟 [**BitWarden**](https://bitwarden.com/) \
-🌟 [**Joplin**](https://joplinapp.org/) \
-🌟 [**GitHub**](https://github.com/) \
-🌟 [**Gitea**](https://about.gitea.com/) \
-🌟 [**Immich**](https://immich.app/) \
-🌟 [**Jellyfin**](https://jellyfin.org/) \
-🌟 [**GOWA (Whatsapp API)**](https://github.com/aldinokemal/go-whatsapp-web-multidevice) \
-🌟 [**Unbound**](https://www.nlnetlabs.nl/projects/unbound/about/) \
-🌟 [Intelbras CFTV](https://www.intelbras.com) \
-🌟 [Hikvision CFTV](https://www.hikvision.com/) \
-🌟 [Home Assistent](https://www.home-assistant.io/) \
-🌟 [Paperless-ngx](https://docs.paperless-ngx.com/) \
-🌟 [StirlingPDF](https://www.stirlingpdf.com/) \
-🌟 [Selenium Grid](https://www.selenium.dev/documentation/grid/) \
-🌟 [SpeedTest Tracker](https://speedtest-tracker.dev/) \
-🌟 [Nginx Proxy Manager](https://nginxproxymanager.com/) \
-🌟 [IT-Tools](https://it-tools.tech/) \
-🌟 [OmniTools](https://omnitools.app/) \
-🌟 [Valetudo Cloud](https://valetudo.cloud/) \
-🌟 [_Dashy_](https://github.com/Lissy93/dashy) \
-🌟 [_BookStack_](https://www.bookstackapp.com/) \
-🌟 [_Ntfy_](https://ntfy.sh/) \
-🌟 [_MkDocs/Material_](https://www.mkdocs.org/)
+[**`Zabbix`**](https://www.zabbix.com/)
+[**`Grafana`**](https://grafana.com/)
+[**`Proxmox`**](https://www.proxmox.com/)
+[**`TrueNAS`**](https://www.truenas.com/)
+[**`Docker`**](https://www.docker.com/)
+[**`Podman`**](https://podman.io/)
+[**`Portainer`**](https://www.portainer.io/)
+[**`Authentik`**](https://goauthentik.io/)
+[**`AdGuard Home`**](https://github.com/AdguardTeam/AdguardHome)
+[**`Syncthing`**](https://syncthing.net/)
+[**`Homarr`**](https://homarr.dev/)
+[**`Netbox`**](https://netboxlabs.com/)
+[**`BitWarden`**](https://bitwarden.com/)
+[**`Joplin`**](https://joplinapp.org/)
+[**`GitHub`**](https://github.com/)
+[**`Gitea`**](https://about.gitea.com/)
+[**`Immich`**](https://immich.app/)
+[**`Jellyfin`**](https://jellyfin.org/)
+[**`GOWA (Whatsapp API)`**](https://github.com/aldinokemal/go-whatsapp-web-multidevice)
+[**`Unbound`**](https://www.nlnetlabs.nl/projects/unbound/about/)
+[`Intelbras CFTV`](https://www.intelbras.com)
+[`Hikvision CFTV`](https://www.hikvision.com/)
+[`Home Assistent`](https://www.home-assistant.io/)
+[`Paperless-ngx`](https://docs.paperless-ngx.com/)
+[`StirlingPDF`](https://www.stirlingpdf.com/)
+[`Selenium Grid`](https://www.selenium.dev/documentation/grid/)
+[`SpeedTest Tracker`](https://speedtest-tracker.dev/)
+[`Nginx Proxy Manager`](https://nginxproxymanager.com/)
+[`IT-Tools`](https://it-tools.tech/)
+[`OmniTools`](https://omnitools.app/)
+[`Valetudo Cloud`](https://valetudo.cloud/)
+[_`Dashy`_](https://github.com/Lissy93/dashy)
+[_`BookStack`_](https://www.bookstackapp.com/)
+[_`Ntfy`_](https://ntfy.sh/)
+[_`MkDocs/Material`_](https://www.mkdocs.org/)
 
 <BR>
 
